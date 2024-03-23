@@ -1,5 +1,6 @@
-# Waterfall model
+![README](https://github.com/Xmaz2150/img/blob/main/Waterfall.png)
 
+# Waterfall model?
 A linear, sequential approach to the software development lifecycle ([SDLC](https://medium.com/@muzirat0/the-software-development-life-cycle-4a833102fd0c)),
 is widely used in software engineering and product development.
 
