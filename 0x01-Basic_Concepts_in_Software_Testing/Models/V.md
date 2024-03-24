@@ -15,3 +15,5 @@ which shows development on the left and testing on the right. Each development p
 - **Rigidity**: Sequential nature may not suit all projects.
 - **Limited Flexibility**: Changes can be costly and challenging.
 - **Resource Intensive**: Requires significant time and effort.
+
+[Verification vs Validation](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x01-Basic_Concepts_in_Software_Testing/Verification_VS_Validation.md)
