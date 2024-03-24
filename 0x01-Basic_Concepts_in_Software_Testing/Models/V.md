@@ -1,4 +1,4 @@
-![README](https://github.com/Xmaz2150/img/blob/main/)
+![README](https://github.com/Xmaz2150/img/blob/main/V.png)
 
 # V model?
 The V-model is a software development lifecycle ([SDLC](https://medium.com/@muzirat0/the-software-development-life-cycle-4a833102fd0c)) that connects each step of development to its corresponding testing phase. It is named after its V-shaped graphical representation,
