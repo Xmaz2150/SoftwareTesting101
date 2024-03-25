@@ -1,5 +1,5 @@
 # Levels of testing
-![README](https://github.com/Xmaz2150/img/blob/main/LevelsOfTesting.png)
+![README](https://github.com/Xmaz2150/img/blob/main/LevelsOfTesting2.png)
 
 # Levels of testing?
 The Software Testing Life Cycle (STLC) 
