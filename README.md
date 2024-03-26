@@ -15,7 +15,7 @@
 	
  	v. Models: [Waterfall](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x01-Basic_Concepts_in_Software_Testing/Models/waterfall.md), [V](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x01-Basic_Concepts_in_Software_Testing/Models/V.md)
 3. [Levels of Testing](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x02-Levels_of_Testing/Levels.md)
-4. Types of Software Testing
+4. [Types of Software Testing](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x03-Types_of_Software_Testing%2Ftypes.md)
 5. Further Concepts in Testing
 6. Test Design Techniques
 7. Test Management
