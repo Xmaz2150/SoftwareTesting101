@@ -12,6 +12,7 @@ design, and implementation. The implementation and impact of the code are evalua
 |By developers|By testers|
 |Logic testing|Behavior testing|
 |Time intensive|Least time|
+|Functional (Path Testing, Loop Testing, Condition testing)|Functional & Non-Functional(Regression Testing, Performance Testing, Usability Testing|
 
 ## Design techniques
 
@@ -26,15 +27,3 @@ design, and implementation. The implementation and impact of the code are evalua
 - Data flow testing
 - Branch testing
 
-## Types of testing:
-
-### White-box:
-
-- Path Testing 
-- Loop Testing 
-- Condition testing
-
-### Black-box:
-- Functional Testing 
-- Non-functional testing 
-- Regression Testing 
