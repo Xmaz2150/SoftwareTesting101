@@ -17,13 +17,14 @@ design, and implementation. The implementation and impact of the code are evalua
 ## Design techniques
 
 ### Black-box:
-- Decision table testing
-- All-pairs testing
 - Equivalence partitioning
+- Boundary Value Analysis
+- Decision table testing
+- State Transtion Testing
 - Error guessing
 
 ### White-box:
-- Control flow testing
-- Data flow testing
-- Branch testing
+- Statement Coverage
+- Branch Coverage
+- Path Coverage
 
