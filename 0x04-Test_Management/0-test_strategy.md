@@ -7,3 +7,5 @@
 5. **Release Management**
 6. **Risk Analysis**
 7. **Reviews & Approvals**
+
+[Test Plan Vs Test Strategy](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x04-Test_Management/test_planVStest_strategy.md)
