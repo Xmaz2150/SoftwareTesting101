@@ -35,3 +35,5 @@ A document for ensuring the quality of a software product. It acts as a roadmap,
 15. **Risks And Contingencies**: Identifies potential risks like time constraints and or resource limitations that could impact testing and outlines plans to mitigate those risks.
 
 16. **Approvals**: Specifies the individuals or groups who need to review and approve the test plan before testing commences. This ensures everyone is aligned on the testing strategy and objectives.
+
+[Test Plan Vs Test Strategy](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x04-Test_Management/test_planVStest_strategy.md)
