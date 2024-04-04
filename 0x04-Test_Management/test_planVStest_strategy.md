@@ -1,4 +1,4 @@
-# Test Plan vs Test Strategy
+# [Test Plan](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x04-Test_Management/1-test_plan.md) vs [Test Strategy](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x04-Test_Management/0-test_strategy.md)
 
 ||Test Plan|Test Strategy|
 |--|--|--|
