@@ -1,5 +1,7 @@
 # Test Strategy
+A high-level document that acts as the foundation for your complete software testing procedure. It outlines the big picture by describing the what, how, and why of testing inside a project or organization.
 
+## Test Strategy Components
 1. **Scope & Environment**
 2. **Testing Approach**
 3. **Environment Specification**
