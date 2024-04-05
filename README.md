@@ -26,7 +26,7 @@
 
    ii. [Test Plan]()
 
-7. Defect Management
+7. [Defect Management](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x05-Defect%20Management/0-Defect_Management_Process.md)
 
 	i. [Severity & Priority]()	
 	
