@@ -14,4 +14,6 @@ A deviation from the expected output of a test case/scenario.
 
 3. **Defect Leakage Ratio**: Measures how well defects are identified before the software is released to production.  A high defect leakage ratio suggests that testing might be inadequate or there could be gaps between development and testing phases, allowing defects to slip through. Again also show nother opportunity for improvement.
 
+These metrics are used to assess the effectiveness of the software development and testing processes, specifically related to defect identification, resolution, and prevention.
+
 [Defect, Bug, Error and Failure](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x05-Defect%20Management/Defect_Bug_Error_and_Failure.md)
