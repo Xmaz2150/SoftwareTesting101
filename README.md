@@ -27,4 +27,9 @@
    ii. [Test Plan]()
 
 7. Defect Management
+
+	i. [Severity & Priority]()	
+	
+	ii. [Defect LifeCycle]()
+
 8. Additional Testing Areas
