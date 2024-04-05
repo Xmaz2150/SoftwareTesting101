@@ -22,9 +22,9 @@
 	ii. [White-box techniques](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x03-Types_of_Software_Testing/1-white_box.md)
 5. Test Management
 
-   [Test Strategy]()
+   i. [Test Strategy]()
 
-   [Test Plan]()
+   ii. [Test Plan]()
 
 7. Defect Management
 8. Additional Testing Areas
