@@ -2,9 +2,9 @@
 
  Defect management is a process in software development and quality assurance that involves identifying, reporting, prioritizing, tracking, and resolving software faults. It helps to maintain and improve the overall quality of a software product. Defect management is an iterative process that occurs throughout the development lifecycle to ensure that the software is of good quality and meets the user's needs.
 
- ## Defect ?
+## Defect ?
 
-A deviation from the expected from the output of a test case/scenario.
+A deviation from the expected output of a test case/scenario.
 
  ## Defect Metrics
  1. **Critical Defect Percentage**: Focuses on the severity of defects. It determines the percentage of all identified defects that are rated as critical.  Critical defects have a significant influence on the software's functioning, stability, or security.  A high critical defect percentage suggests possible flaws in the development or testing processes, implying the need to identify and resolve significant issues sooner.
