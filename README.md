@@ -20,7 +20,11 @@
 	i. [Black-box techniques](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x03-Types_of_Software_Testing/0-black_box.md)
 
 	ii. [White-box techniques](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x03-Types_of_Software_Testing/1-white_box.md)
-5. Further Concepts in Testing
-6. Test Management
+5. Test Management
+
+   [Test Strategy]()
+
+   [Test Plan]()
+
 7. Defect Management
 8. Additional Testing Areas
