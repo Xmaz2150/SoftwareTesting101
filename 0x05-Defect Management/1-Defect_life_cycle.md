@@ -10,6 +10,7 @@ root cause of problems and helping in the prevention of future
 recurrence of the same defects.
 
 ## Defect States and Resolution
+![Defect LifeCycle model](https://github.com/Xmaz2150/img/blob/main/Defect_LifeCycle.png)
 
 1. **New**: User, tester, or developer discovers a bug during or after the software's release.
 2. **Deferred**: The bug has been postponed or delayed for whatever reason. This could happen if the bug is not regarded serious enough to fix right away, or if the necessary resources are not available to handle the problem.
