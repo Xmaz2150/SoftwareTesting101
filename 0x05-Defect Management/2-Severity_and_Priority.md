@@ -1,4 +1,5 @@
 # Defect Severity & Priority
+![](https://github.com/Xmaz2150/img/blob/main/DefectSeverity%26Priority.png)
 In line with defect management processes, when a tester files a defect, they must provide 
 some categorical information that will aid in the classification of the error.
 This, in turn, would aid in effective defect tracking/management processes and lay
