@@ -45,4 +45,6 @@
 	
 	ii. [Defect LifeCycle]()
 
-8. Additional Testing Areas
+
+8. [Test Case]()
+9. Additional Testing Areas
