@@ -46,5 +46,5 @@
 	ii. [Defect LifeCycle]()
 
 
-8. [Test Case]()
+8. [Test Case](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x07-Test_Case/0-test_case.md)
 9. Additional Testing Areas
