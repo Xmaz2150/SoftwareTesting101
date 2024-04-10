@@ -14,7 +14,8 @@
  	iv. Software Testing LifeCycle [STLC](https://medium.com/@muzirat0/the-software-testing-life-cycle-stlc-778b7814e88e)
 	
  	v. Models: [Waterfall](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x01-Basic_Concepts_in_Software_Testing/Models/waterfall.md), [V](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x01-Basic_Concepts_in_Software_Testing/Models/V.md)
-	vi. [Verification Vs Validation](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x01-Basic_Concepts_in_Software_Testing/Verification_VS_Validation.md)
+	
+ 	vi. [Verification Vs Validation](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x01-Basic_Concepts_in_Software_Testing/Verification_VS_Validation.md)
 
 
 4. [Levels of Testing](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x02-Levels_of_Testing/Levels.md)
