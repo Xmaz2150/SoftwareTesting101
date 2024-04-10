@@ -18,12 +18,19 @@
  	vi. [Verification Vs Validation](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x01-Basic_Concepts_in_Software_Testing/Verification_VS_Validation.md)
 
 
+
+
 4. [Levels of Testing](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x02-Levels_of_Testing/Levels.md)
+
+
+
 5. [Types of Software Testing](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x03-Types_of_Software_Testing%2Ftypes_by_requirements.md)
 	
 	i. [Black-box techniques](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x03-Types_of_Software_Testing/0-black_box.md)
 
 	ii. [White-box techniques](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x03-Types_of_Software_Testing/1-white_box.md)
+
+
 6. Test Management
 
    i. [Test Strategy](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x04-Test_Management/0-test_strategy.md)
