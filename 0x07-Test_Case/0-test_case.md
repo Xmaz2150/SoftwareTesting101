@@ -12,4 +12,4 @@ to ensure a particular feature of the software functions correctly.
 6. **Expected Result**: Goes hand in hand with each step(in Test Steps) by stating the expected outcome or behavior of the software after executing the test step(s).
 
 # Why is it important?
-Tracebility, reusability, requirement coverage
+Well written test cases enable effective software testing. They ensure traceability by linking requirements to tests and defects, promote reusability by enabling adaptation for similar functionalities, and guarantee thorough testing by tracking coverage of all software requirements.
