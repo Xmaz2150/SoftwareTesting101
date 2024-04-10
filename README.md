@@ -41,10 +41,12 @@
 
 7. [Defect Management](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x05-Defect%20Management/0-Defect_Management_Process.md)
 
-	i. [Severity & Priority]()	
+	i. [Defect LifeCycle](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x05-Defect%20Management/1-Defect_life_cycle.md)
 	
-	ii. [Defect LifeCycle]()
+	ii. [Severity & Priority](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x05-Defect%20Management/2-Severity_and_Priority.md)
+
+	iii. [Defect Report](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x05-Defect%20Management/3-Defect_Report.md)
 
 
-8. [Test Case](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x07-Test_Case/0-test_case.md)
-9. Additional Testing Areas
+9. [Test Case](https://github.com/Xmaz2150/SoftwareTesting101/blob/main/0x07-Test_Case/0-test_case.md)
+10. Additional Testing Areas
